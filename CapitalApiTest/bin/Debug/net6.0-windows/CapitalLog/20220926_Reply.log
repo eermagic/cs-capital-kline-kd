@@ -1,0 +1,5 @@
+-----------------------------------------------------------------
+[9032] 2022/09/26 18:16:57.084 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[9032] 2022/09/26 18:17:00.168 After Precheck status:0 取得回報連線資訊
+[9032] 2022/09/26 18:44:16.243 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[9032] 2022/09/26 18:44:16.244 OnDisConnect_S, ID: R123494283 , Code: 3002

@@ -1,0 +1,20 @@
+-----------------------------------------------------------------
+[9032] 2022/09/26 18:16:59.857 >> Host srvsolace-tpa.capital.com.tw
+[9032] 2022/09/26 18:17:00.168 SKQuoteLib_EnterMonitor IP¡Gsrvsolace-tpa.capital.com.tw
+[9032] 2022/09/26 18:17:00.193 OnSessionConnect¡ACode: 3001, Error Code:0.
+[9032] 2022/09/26 18:17:00.212 SKQuoteLib_EnterMonitorLONG starting
+[9032] 2022/09/26 18:17:00.235 OnConnection ( 3001 , 0 ) 
+[9032] 2022/09/26 18:17:00.360 Market Info is OK!
+[9032] 2022/09/26 18:17:00.384 Catalog info is OK!
+[9032] 2022/09/26 18:17:02.098 Solace RequestInitializeData (TO_S_19,S_1F)
+[9032] 2022/09/26 18:17:02.104 OnConnection ( 3003 , 0 ) 
+[9032] 2022/09/26 18:17:03.183 SKQuoteLib_RequestStocks (-1 , TX00)
+[9032] 2022/09/26 18:17:03.185 Divide StockNo {TX00}
+[9032] 2022/09/26 18:17:03.185 Add Basket MarketNo¡G2 StockIdx¡G0
+[9032] 2022/09/26 18:17:03.185 Return PageNo¡G 1 
+[9032] 2022/09/26 18:17:06.792  SKQuoteLib_RequestTicks ( 0 , TX00 )
+[9032] 2022/09/26 18:17:06.792 Return PageNo¡G 0 
+[9032] 2022/09/26 18:44:16.241 SKQuoteLib_LeaveMonitor() 
+[9032] 2022/09/26 18:44:16.362 Please Connect SKQuoteLib_EnterMonitorLONG first.
+[9032] 2022/09/26 18:44:16.366 Please Connect SKQuoteLib_EnterMonitorLONG first.
+[9032] 2022/09/26 18:44:16.367 OnConnection ( 3002 , 0 ) 

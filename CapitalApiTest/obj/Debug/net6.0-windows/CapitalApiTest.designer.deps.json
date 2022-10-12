@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MySqlConnector/2.1.13": {
+        "runtime": {
+          "lib/net6.0/MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.13.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MySqlConnector/2.1.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y3qts7mnuZ4EGEQOI4xJ1n+9ZJOmrcwD2CdqyAXuQONBkrc2ENDywE6ZBysFaRojXrnWzLXpc595+GYlN/PI9Q==",
+      "path": "mysqlconnector/2.1.13",
+      "hashPath": "mysqlconnector.2.1.13.nupkg.sha512"
+    }
+  }
+}

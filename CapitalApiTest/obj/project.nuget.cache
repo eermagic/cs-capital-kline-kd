@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljliDK24c3/mxzkfI5UCyEhnm96jNMW34GMirKFw/OGnKNyIuitx2FGnmA3lww/jvmU4KT3OgFPKWMtgKH87MA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\test\\CapitalApiTest\\CapitalApiTest\\CapitalApiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mars\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

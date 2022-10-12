@@ -1,0 +1,59 @@
+-----------------------------------------------------------------
+[20172] 2022/08/29 10:48:22.782 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[15048] 2022/08/29 10:57:41.747 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[15048] 2022/08/29 10:57:47.244 After Precheck status:0 取得回報連線資訊
+[25612] 2022/08/29 11:07:23.871 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[25612] 2022/08/29 11:07:33.757 After Precheck status:0 取得回報連線資訊
+[3232] 2022/08/29 11:13:30.627 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[3232] 2022/08/29 11:13:47.175 After Precheck status:0 取得回報連線資訊
+[17808] 2022/08/29 11:16:42.145 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[17808] 2022/08/29 11:16:48.267 After Precheck status:0 取得回報連線資訊
+[20372] 2022/08/29 11:30:20.841 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[20372] 2022/08/29 11:30:25.673 After Precheck status:0 取得回報連線資訊
+[20372] 2022/08/29 11:31:45.953 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[20372] 2022/08/29 11:31:45.953 OnDisConnect_S, ID: R123494283 , Code: 3002
+[28792] 2022/08/29 11:38:59.408 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[28792] 2022/08/29 11:39:05.346 After Precheck status:0 取得回報連線資訊
+[28792] 2022/08/29 11:40:37.839 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[28792] 2022/08/29 11:40:37.839 OnDisConnect_S, ID: R123494283 , Code: 3002
+[28948] 2022/08/29 11:41:48.919 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[28948] 2022/08/29 11:41:55.227 After Precheck status:0 取得回報連線資訊
+[28948] 2022/08/29 11:43:26.274 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[28948] 2022/08/29 11:43:26.274 OnDisConnect_S, ID: R123494283 , Code: 3002
+[17884] 2022/08/29 11:45:29.967 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[17884] 2022/08/29 11:45:52.792 After Precheck status:0 取得回報連線資訊
+[17884] 2022/08/29 11:47:15.135 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[17884] 2022/08/29 11:47:15.135 OnDisConnect_S, ID: R123494283 , Code: 3002
+[29748] 2022/08/29 15:14:47.894 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[16772] 2022/08/29 15:15:13.141 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[16772] 2022/08/29 15:15:16.471 After Precheck status:0 取得回報連線資訊
+[16772] 2022/08/29 15:16:17.242 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[16772] 2022/08/29 15:16:17.242 OnDisConnect_S, ID: R123494283 , Code: 3002
+[17448] 2022/08/29 15:19:00.437 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[17448] 2022/08/29 15:19:05.673 After Precheck status:0 取得回報連線資訊
+[17448] 2022/08/29 15:20:09.127 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[17448] 2022/08/29 15:20:09.127 OnDisConnect_S, ID: R123494283 , Code: 3002
+[24768] 2022/08/29 15:20:47.270 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[24768] 2022/08/29 15:20:51.764 After Precheck status:0 取得回報連線資訊
+[24768] 2022/08/29 15:22:33.376 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[24768] 2022/08/29 15:22:33.376 OnDisConnect_S, ID: R123494283 , Code: 3002
+[24804] 2022/08/29 15:24:14.740 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[24804] 2022/08/29 15:24:21.054 After Precheck status:0 取得回報連線資訊
+[24804] 2022/08/29 15:31:53.872 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[24804] 2022/08/29 15:31:53.872 OnDisConnect_S, ID: R123494283 , Code: 3002
+[19096] 2022/08/29 15:34:36.843 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[19096] 2022/08/29 15:34:43.366 After Precheck status:0 取得回報連線資訊
+[19096] 2022/08/29 15:40:24.808 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[19096] 2022/08/29 15:40:24.808 OnDisConnect_S, ID: R123494283 , Code: 3002
+[28204] 2022/08/29 15:41:08.667 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[28204] 2022/08/29 15:41:16.442 After Precheck status:0 取得回報連線資訊
+[28204] 2022/08/29 15:49:41.912 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[28204] 2022/08/29 15:49:41.912 OnDisConnect_S, ID: R123494283 , Code: 3002
+[588] 2022/08/29 15:49:57.864 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[588] 2022/08/29 15:50:05.226 After Precheck status:0 取得回報連線資訊
+[588] 2022/08/29 16:02:15.232 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[588] 2022/08/29 16:02:15.232 OnDisConnect_S, ID: R123494283 , Code: 3002
+[23260] 2022/08/29 21:17:39.086 OnReplyMessage, ID: R123494283 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[23260] 2022/08/29 21:17:45.025 After Precheck status:0 取得回報連線資訊
+[23260] 2022/08/29 21:17:54.049 OnSolaceReplyDisConnect, ID: R123494283 , Code: 3002
+[23260] 2022/08/29 21:17:54.049 OnDisConnect_S, ID: R123494283 , Code: 3002
