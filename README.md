@@ -5,3 +5,4 @@
 
 技術指標有非常多種類，而我這次先以最常見的 KD 指標來做範例教學。
 
+[完整教學文章](https://blog.hungwin.com.tw/cs-capital-kline-kd/)
